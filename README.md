@@ -10,16 +10,24 @@ This is a simple implementation of the common paper and pencil game: Tic Tac Toe
 - final discoveries
 
 
-# Learning
+# Key Take Aways
 - 
 
-# Improvement
+# Future Goals
 In the future, a goal is to create a more cohesive personal project
 
 
-# Running the Project
+# jenn's greenhouse Website Preview 
 
-Download the File
-[name](link)
+Download the File: 
+[jenn's greenhouse](link)
 
 Game Preview
+
+# Jennifer Zhang Website Preview
+
+Download the File: 
+[Jennifer Zhang ](link)
+
+Game Preview
+
